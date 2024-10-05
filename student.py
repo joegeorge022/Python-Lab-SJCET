@@ -1,6 +1,8 @@
-#Python Program to get Student Details 
-#Author = Joe George
-#Date = October 1, 2024
+'''
+Python Program to get Student Details 
+Author = Joe George
+Date = October 1, 2024
+'''
 
 print("I love Python")
 
