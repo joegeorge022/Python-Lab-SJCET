@@ -1,7 +1,7 @@
 '''
 Python Lab Task-1
 Author: Joe George
-Date: October
+Date: October 5
 '''
 
 #These 2 lines asks the user for input.
