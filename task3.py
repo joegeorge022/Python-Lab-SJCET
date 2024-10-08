@@ -1,7 +1,7 @@
 '''
 Python Lab Task-3
 Author: Joe George
-Date: October
+Date: October 5
 '''
 
 a=10
