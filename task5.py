@@ -1,7 +1,7 @@
 '''
 Python Lab Task-5
 Author: Joe George
-Date: October
+Date: October 5
 '''
 
 # \n creates a new line.
