@@ -1,7 +1,7 @@
 '''
 Python Lab Task-4
 Author: Joe George
-Date: October
+Date: October 5
 '''
 
 # math module is imported to perform certain mathematical functions.
