@@ -1,7 +1,7 @@
 '''
 Python Lab Task-2
 Author: Joe George
-Date: October
+Date: October 5
 '''
 
 str1 = "Hello, World!"
