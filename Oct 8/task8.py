@@ -1,0 +1,26 @@
+from datetime import datetime
+from pprint import PrettyPrinter
+
+current_time=(datetime.now())
+print(current_time)
+format_1=current_time.strftime("%Y-%m-%d %H:%M:%S")
+print(format_1)
+format_2=current_time.strftime("%m /%d/%Y")
+print(format_2)
+format_3=current_time.strftime("%A,%m %d,%Y")
+print(format_3)
+format_4=current_time.strftime("%A,%B, %d,%Y %H:%M:%S %p")
+print(format_4)
+format_5=current_time.strftime( "%a -%b-%d :%H:%M:%S  IST %y"  )
+print(format_5)
+format_6=current_time.strftime("[%-%b-%d-%H:%M:%S IST %Y")
+print(format_6)
+
+format_8=current_time.strftime("%d-%m-%Y")
+print(format_8)
+format_9=current_time.strftime("%H-%M-%S")
+print(format_9)
+format_10=current_time.strftime("%B")
+print(format_10)
+fromat_11=current_time.strftime("%Y")
+print(fromat_11)
