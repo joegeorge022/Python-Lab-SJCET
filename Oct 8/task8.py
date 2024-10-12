@@ -1,7 +1,15 @@
+'''
+Python Lab
+Author: Joe George
+Date: October 8
+
+Title: Familiarize time and date in various formats (Eg. “Thu Jul 11 10:26:23 IST 2024”).
+'''
+
 from datetime import datetime
 from pprint import PrettyPrinter
 
-current_time = datetime.now()
+current_time = datetime.now()                                      #Display current date & time.
 print(current_time)
 
 format_1 = current_time.strftime("%Y-%m-%d %H:%M:%S")              # Display the format [YYYY-MM-DD HH:MM:SS]
@@ -21,7 +29,7 @@ print(format_7)
 
 format_8 = current_time.strftime("%d-%m-%Y")                       # Display Date only
 print(format_8)
-format_9 = current_time.strftime("%H-%M-%S")                       # Display Time only
+format_9 = current_time.strftime("%H:%M:%S")                       # Display Time only
 print(format_9)
 format_10 = current_time.strftime("%B")                            # Display Month only
 print(format_10)
