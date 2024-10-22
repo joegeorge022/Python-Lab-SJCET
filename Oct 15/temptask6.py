@@ -16,4 +16,4 @@ if num1<num2 and num1<num3:
 elif num2<num3 and num2< num1:
     print("The given number",num2,"is smallest.")
 else:
-    print("The given number",num2,"is smallest.")
+    print("The given number",num3,"is smallest.")
