@@ -14,7 +14,7 @@ if Confirm == "C"or Confirm == "c":
 elif Confirm == "F"or Confirm == "f":
     print(temp, "Fahrenheit is ", 5 / 9 * (temp - 32), "Celsius.")                #Converts Fahrenheit to Celsius.
 else:
-    print("Unit is not valid")                                                    #You entered the wrong unit mate. How dumb are you?? I even made it case insensitive🥹.
+    print("Unit is not valid")                                                    #You entered the wrong unit.
 
 
 
