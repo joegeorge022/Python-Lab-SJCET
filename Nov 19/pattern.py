@@ -16,7 +16,7 @@ for j in range(num, 0, -1):
         print("*", end="")
     print()  
 
-# Mill Pyramid
+# Hill Pyramid
 for k in range(num+1):
     for c in range(num-k):  
         print(" ", end="")
@@ -24,7 +24,7 @@ for k in range(num+1):
         print("*", end="")
     print()  
 
-# Inverted Mill Pyramid
+# Inverted Hill Pyramid
 for q in range(num, 0, -1):
     for d in range(num-q):  
         print(" ", end="")
