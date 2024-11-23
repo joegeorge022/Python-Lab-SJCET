@@ -2,7 +2,6 @@
 Author :
 Date: November 19, 2024
 '''
-from itertools import repeat
 
 fruits = ('banana','apple','mango')
 
