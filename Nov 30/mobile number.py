@@ -14,3 +14,5 @@ if len(mobile_number)== 10 and mobile_number[0] in "789":     # Checks if the ru
     print("Valid Mobile Number")
 else:
     print("Invalid Mobile Number")
+
+# Note: If input is collected as integer data type len() wont work.
