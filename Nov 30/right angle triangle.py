@@ -22,3 +22,33 @@ def right_triangle():
 print(right_triangle())
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"""
+QUESTION
+Program to check whether the given number is a valid mobile number or not using functions.
+
+Rules:
+1. Every number should contain exactly 10 digits.
+2. The first digit should be 7 or 8 or 9
+.................................................................................................................................................................................................................................
+
+A program that accepts the lengths of three sides of a triangle as inputs. The program should output whether or not the triangle is a right triangle (Recall from the Pythagorean Theorem that in a right triangle, the square of one side equals the sum of the squares of the other two sides). Implement using functions.
+
+
+"""
