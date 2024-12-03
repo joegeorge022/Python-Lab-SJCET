@@ -12,4 +12,4 @@ def fibo(n):
         sequence.append(num2)
     return sequence
 
-print(fibo(1))
+print(fibo(1))     # Replace 1 with other numbers to get the fibonacci sequence until it
