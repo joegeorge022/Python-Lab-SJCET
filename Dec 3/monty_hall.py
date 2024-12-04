@@ -5,7 +5,7 @@ Play Monty Hall game
 """
 
 
-# THIS CODE DOESN'T WORK AS OF NOW
+# THIS CODE DOESN'T WORK AS INTENDED OF NOW
 
 import random
 
