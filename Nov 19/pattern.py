@@ -17,10 +17,10 @@ for j in range(num, 0, -1):
     print()  
 
 # Hill Pyramid
-for k in range(num+1):
-    for c in range(num-k):  
+for i in range(num+1):
+    for j in range(num-i):  
         print(" ", end="")
-    for f in range(1, 2*k): 
+    for k in range(1, 2*i): 
         print("*", end="")
     print()  
 
