@@ -1,3 +1,3 @@
 # Python-SJCET
 
-This is a repo for storing my python lab files at school.😁
+# I could've organized these files a lot better. 💀🫠
